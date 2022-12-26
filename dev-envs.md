@@ -26,7 +26,7 @@ sudo apt install -y openjdk-$VERSION-jdk
   flutter doctor
   ```
   
-  - Start Android-studio IDE and install android SDK.
+  - Start Android-studio IDE and install android SDK
   - Install `flutter` plugin (Settings -> Plugins)
   - [Install dart](https://dart.dev/get-dart)
 
