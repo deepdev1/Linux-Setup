@@ -1,6 +1,4 @@
-# Linux Essential Utilities
-
-
+# Utilities
 
 | Purpose               | Utility               | Installation                          |
 | :-------------------- | :-------------------- | ------------------------------------- |
@@ -9,9 +7,13 @@
 | 7zip and rar utils    | p7zip-full, p7zip-rar | sudo apt install p7zip-full p7zip-rar |
 
 
+# Editors
 
 | IDE           | Installation                                        |
 | ------------- | --------------------------------------------------- |
+| Vim           | sudo apt install vim -y                             |  
 | IntelliJ-Idea | sudo snap install intellij-idea-community --classic |
 | VS Code       | sudo snap install code --classic                    |
+| Sublime Text  | sudo snap install sublime-text --classic            |
+| Typora        | sudo snap install typora                            |
 
