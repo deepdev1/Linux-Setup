@@ -30,3 +30,11 @@ sudo apt install -y openjdk-$VERSION-jdk
   - Install `flutter` plugin (Settings -> Plugins)
   - [Install dart](https://dart.dev/get-dart)
 
+
+# C/C++
+
+## Installation
+
+```bash
+sudo apt install -y build-essential manpages-dev
+```
